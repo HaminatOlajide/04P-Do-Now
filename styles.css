@@ -1,0 +1,43 @@
+
+
+.container{
+    display: flex;
+        justify-content: space-around;
+    border: 3px solid purple;
+}
+
+
+
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: #00FFCC;
+            margin: 2px;
+padding:4px;
+}
+.yellow {
+    width: 100px;
+    height: 100px;
+    background-color: #FEE975;
+            margin: 2px;
+ padding:4px;
+
+
+}
+.pink {
+    width: 100px;
+    height: 100px;
+    background-color: #E4A4EE;
+            margin: 2px;
+padding:4px;
+
+}
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: #17D3FF;
+            margin: 2px;
+padding:4px;
+
+}
